@@ -1,0 +1,45 @@
+<div class="paddingSpace">
+                            <li>Education</li>
+                                <ul>
+                                    <li>Brigham Young University</li>
+                                    <li><a href= "https://www.byu.edu/">University Homepage Link</a></li>
+                                        <ul>
+                                            <li>Major-Undeclared</li>
+                                            <li>Class of 2025</li>
+                                        </ul>
+                                    <li>Farmington High School</li>
+                                </ul>
+                            </div>
+                            <li class="noPadding">Work Experience</li>
+                                <ul>
+                                    <li>Marshall's store Associate</li>
+                                        <ul>
+                                            <li>In this job, I helped with cashiering, assisting customers, and organizing clothing racks.</li>
+                                            <img width=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSApmigk9h0Ym3NTyQ0VTIVWkoCNwxElA-yDg&usqp=CAU">
+                                        </ul>
+                                    <li>Assistant Bookkeeper</li>
+                                        <ul>
+                                            <li>I helped assist in finances for a small company in my hometown.</li>
+                                            <img width=200px src="https://spirebusiness.com/wp-content/uploads/2020/06/bookkeeping-vs-accounting.jpg">
+                                        </ul>
+                                    <li>Tennis Coach</li>
+                                        <ul>
+                                            <li>I worked with young kids at a tennis summer camp.</li>
+                                            <img width=200px src="https://images.unsplash.com/photo-1602211844066-d3bb556e983b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80">
+                                        </ul>
+                                    </div>
+                                        <li class="noPadding">Contact Me</li>
+                                    <ul>
+                                    <li>Email</li>
+                                        <ul>
+                                            <li>elizabethclaireblack@gmail.com</li>
+                                        </ul>
+                                    <li>Phone Number</li>
+                                        <ul>
+                                    <li>801-555-8760</li>                         
+                                </ul>
+                            <li>Skills</li>
+                                <ul>
+                                    <li>Cashering, Bookkeeping</li>
+                                    <li>I also enjoy interacting with others.</li>
+                                </ul>
